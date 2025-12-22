@@ -1,0 +1,7 @@
+{
+	"parent": "./template_leather_0_wall",
+	"textures": {
+		"0": "./leather_frame",
+		"1": "./leather_0"
+	}
+}

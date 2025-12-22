@@ -1,0 +1,8 @@
+{
+	"parent": "./template_flower_0_wall",
+	"textures": {
+		"0": "./azure_bluet_0",
+		"1": "./azure_bluet_0_01",
+		"1_0": "./hanging_basket"
+	}
+}

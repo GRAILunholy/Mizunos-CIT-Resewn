@@ -1,0 +1,7 @@
+{
+	"parent": "./template_leather_0",
+	"textures": {
+		"0": "./leather_frame",
+		"1": "./rabbit_hide_0"
+	}
+}

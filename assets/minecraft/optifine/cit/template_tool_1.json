@@ -1,0 +1,13 @@
+{
+    "parent": "./cit_item_tool",
+    "textures": {
+        "layer0": "#tool"
+    },
+	"display": {
+		"fixed": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0, -8],
+			"scale": [1.7, 1.7, 1.7]
+		}
+    }
+}

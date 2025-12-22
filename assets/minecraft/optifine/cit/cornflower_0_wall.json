@@ -1,0 +1,8 @@
+{
+	"parent": "./template_flower_0_wall",
+	"textures": {
+		"0": "./cornflower_0",
+		"1": "./cornflower_0_01",
+		"1_0": "./hanging_basket"
+	}
+}
