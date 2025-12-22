@@ -1,3 +1,27 @@
+Fork of [Mizunos 16 Craft JE CIT_1.20.1-1.0_230720](https://www.mediafire.com/file/0zjk33x1i187la9/Mizuno%2527s_16_Craft_JE_CIT_1.20.1-1.0_230720.zip/file)
+
+[Modrinth Download Page](https://modrinth.com/resourcepack/mizunos-cit-resewn)
+
+### Info:
+- Changed wildcard naming convention to raw text, the old method no longer works with current Minecraft
+- In game item names have not changed, please reference [Mizuno's Catalog](https://mizunomcmemo.blogspot.com/p/cit.html) for use
+- Open an issue if broken items are found, or other CIT solutions are confirmed to work with this pack. I'll update accordingly
+
+<em>yes i know thats not "an issue" its fine</em>
+
+### Game Requirements:
+- [Invisible Item Frame](https://www.mediafire.com/file/9itwor7hhtj0h16/Invisible_Item_Frame_Pack_1.20.1-1.0_230720.zip/file)
+- [CIT Resewn](https://modrinth.com/mod/cit-resewn)
+
+[Continuity](https://modrinth.com/mod/continuity) recommended for item emmissions
+
+## Credits:
+All rights go to [Mizuno](https://mizunomcmemo.blogspot.com/)
+
+-G
+
+## \+ ORIGINAL README CONTENTS +
+  
 Mizuno's 16 Craft Java Edition CITパック 1.20.1
 
 Mizuno's 16 Craft JE CIT_1.20.1_-1.0
