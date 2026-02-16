@@ -1,3 +1,8 @@
+All rights go to [Mizuno](https://mizunomcmemo.blogspot.com/) / [Mizunos 16 Craft JE CIT_1.20.1-1.0_230720](https://www.mediafire.com/file/0zjk33x1i187la9/Mizuno%2527s_16_Craft_JE_CIT_1.20.1-1.0_230720.zip/file)
+
+> i just took the wildcard ref out of the name to make it work. repo for sharing or in case the official downloads get lost to time
+> -G
+
 ## How to use
 [Item Catalog](https://mizunomcmemo.blogspot.com/p/cit.html)
 
@@ -6,12 +11,6 @@
 
 [CIT Resewn](https://modrinth.com/mod/cit-resewn)
 [Continuity](https://modrinth.com/mod/continuity) recommended cuz its what i tested lol
-
-## Credits
-All rights go to [Mizuno](https://mizunomcmemo.blogspot.com/) / [Mizunos 16 Craft JE CIT_1.20.1-1.0_230720](https://www.mediafire.com/file/0zjk33x1i187la9/Mizuno%2527s_16_Craft_JE_CIT_1.20.1-1.0_230720.zip/file)
-
-> i just took the wildcard ref out of the name to make it work. repo for sharing or in case the official downloads get lost to time
-> -G
 
 ## \+ ORIGINAL README CONTENTS +
   
