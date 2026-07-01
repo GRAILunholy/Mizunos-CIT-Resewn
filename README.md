@@ -7,10 +7,11 @@ All rights go to [Mizuno](https://mizunomcmemo.blogspot.com/) / [Mizunos 16 Craf
 [Item Catalog](https://mizunomcmemo.blogspot.com/p/cit.html)
 
 ### Requirements
+! CIT Resewn only verified up to MC 1.20.1
 ! [Invisible Item Frame](https://www.mediafire.com/file/9itwor7hhtj0h16/Invisible_Item_Frame_Pack_1.20.1-1.0_230720.zip/file) Hard requirement
 
 [CIT Resewn](https://modrinth.com/mod/cit-resewn)
-[Continuity](https://modrinth.com/mod/continuity) recommended cuz its what i tested lol
+[Continuity](https://modrinth.com/mod/continuity)
 
 ## \+ ORIGINAL README CONTENTS +
   
